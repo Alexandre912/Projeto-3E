@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Schema;
 return new class extends Migration
 {
     /**
-     * Run the migrations. Migration que faz referência a criação da tabela assets(ativos)#optei pelo nome em inglés
+     * Run the migrations. Migration que faz referência a criação da tabela assets(ativos)#optei pelo nome em inglês
      */
     public function up(): void
     {
